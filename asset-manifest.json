@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AnthonyOkwananke/tony-softworks.github.io/static/css/main.d33cfbfd.chunk.css",
-    "main.js": "/AnthonyOkwananke/tony-softworks.github.io/static/js/main.d5fe7e29.chunk.js",
-    "main.js.map": "/AnthonyOkwananke/tony-softworks.github.io/static/js/main.d5fe7e29.chunk.js.map",
+    "main.js": "/AnthonyOkwananke/tony-softworks.github.io/static/js/main.0a2a99fb.chunk.js",
+    "main.js.map": "/AnthonyOkwananke/tony-softworks.github.io/static/js/main.0a2a99fb.chunk.js.map",
     "runtime-main.js": "/AnthonyOkwananke/tony-softworks.github.io/static/js/runtime-main.88b7e030.js",
     "runtime-main.js.map": "/AnthonyOkwananke/tony-softworks.github.io/static/js/runtime-main.88b7e030.js.map",
     "static/css/2.e4346227.chunk.css": "/AnthonyOkwananke/tony-softworks.github.io/static/css/2.e4346227.chunk.css",
     "static/js/2.e566aad9.chunk.js": "/AnthonyOkwananke/tony-softworks.github.io/static/js/2.e566aad9.chunk.js",
     "static/js/2.e566aad9.chunk.js.map": "/AnthonyOkwananke/tony-softworks.github.io/static/js/2.e566aad9.chunk.js.map",
     "index.html": "/AnthonyOkwananke/tony-softworks.github.io/index.html",
-    "precache-manifest.f4161185e495cb372f202662088be5dc.js": "/AnthonyOkwananke/tony-softworks.github.io/precache-manifest.f4161185e495cb372f202662088be5dc.js",
+    "precache-manifest.bf1ef6cca2991a71dcf472fa88d2bb1d.js": "/AnthonyOkwananke/tony-softworks.github.io/precache-manifest.bf1ef6cca2991a71dcf472fa88d2bb1d.js",
     "service-worker.js": "/AnthonyOkwananke/tony-softworks.github.io/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/AnthonyOkwananke/tony-softworks.github.io/static/css/2.e4346227.chunk.css.map",
     "static/css/main.d33cfbfd.chunk.css.map": "/AnthonyOkwananke/tony-softworks.github.io/static/css/main.d33cfbfd.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.e4346227.chunk.css",
     "static/js/2.e566aad9.chunk.js",
     "static/css/main.d33cfbfd.chunk.css",
-    "static/js/main.d5fe7e29.chunk.js"
+    "static/js/main.0a2a99fb.chunk.js"
   ]
 }

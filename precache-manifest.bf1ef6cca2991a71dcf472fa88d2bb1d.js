@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02e0903650a92b8c6c4fe1772ae1e0f9",
+    "revision": "2ea9546e7a17c9d9f1ed00da3b12ade8",
     "url": "/AnthonyOkwananke/tony-softworks.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AnthonyOkwananke/tony-softworks.github.io/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "e1b2412c5d4e9c92258c",
+    "revision": "258ef99533b691b0e407",
     "url": "/AnthonyOkwananke/tony-softworks.github.io/static/css/main.d33cfbfd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AnthonyOkwananke/tony-softworks.github.io/static/js/2.e566aad9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1b2412c5d4e9c92258c",
-    "url": "/AnthonyOkwananke/tony-softworks.github.io/static/js/main.d5fe7e29.chunk.js"
+    "revision": "258ef99533b691b0e407",
+    "url": "/AnthonyOkwananke/tony-softworks.github.io/static/js/main.0a2a99fb.chunk.js"
   },
   {
     "revision": "f38520e842b48b33648b",
