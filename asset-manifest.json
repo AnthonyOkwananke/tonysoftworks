@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/AnthonyOkwananke/tony-softworks.github.io/static/css/main.d33cfbfd.chunk.css",
-    "main.js": "/AnthonyOkwananke/tony-softworks.github.io/static/js/main.0a2a99fb.chunk.js",
-    "main.js.map": "/AnthonyOkwananke/tony-softworks.github.io/static/js/main.0a2a99fb.chunk.js.map",
-    "runtime-main.js": "/AnthonyOkwananke/tony-softworks.github.io/static/js/runtime-main.88b7e030.js",
-    "runtime-main.js.map": "/AnthonyOkwananke/tony-softworks.github.io/static/js/runtime-main.88b7e030.js.map",
-    "static/css/2.e4346227.chunk.css": "/AnthonyOkwananke/tony-softworks.github.io/static/css/2.e4346227.chunk.css",
-    "static/js/2.e566aad9.chunk.js": "/AnthonyOkwananke/tony-softworks.github.io/static/js/2.e566aad9.chunk.js",
-    "static/js/2.e566aad9.chunk.js.map": "/AnthonyOkwananke/tony-softworks.github.io/static/js/2.e566aad9.chunk.js.map",
-    "index.html": "/AnthonyOkwananke/tony-softworks.github.io/index.html",
-    "precache-manifest.bf1ef6cca2991a71dcf472fa88d2bb1d.js": "/AnthonyOkwananke/tony-softworks.github.io/precache-manifest.bf1ef6cca2991a71dcf472fa88d2bb1d.js",
-    "service-worker.js": "/AnthonyOkwananke/tony-softworks.github.io/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/AnthonyOkwananke/tony-softworks.github.io/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.d33cfbfd.chunk.css.map": "/AnthonyOkwananke/tony-softworks.github.io/static/css/main.d33cfbfd.chunk.css.map",
-    "static/js/2.e566aad9.chunk.js.LICENSE.txt": "/AnthonyOkwananke/tony-softworks.github.io/static/js/2.e566aad9.chunk.js.LICENSE.txt",
-    "static/media/iconfinder_Reactjs_logo_1174949.png": "/AnthonyOkwananke/tony-softworks.github.io/static/media/iconfinder_Reactjs_logo_1174949.82a318cc.png",
-    "static/media/me_wbg.png": "/AnthonyOkwananke/tony-softworks.github.io/static/media/me_wbg.e71a64a0.png"
+    "main.css": "/tonysoftworks/static/css/main.d33cfbfd.chunk.css",
+    "main.js": "/tonysoftworks/static/js/main.09ee121b.chunk.js",
+    "main.js.map": "/tonysoftworks/static/js/main.09ee121b.chunk.js.map",
+    "runtime-main.js": "/tonysoftworks/static/js/runtime-main.89cf7d4b.js",
+    "runtime-main.js.map": "/tonysoftworks/static/js/runtime-main.89cf7d4b.js.map",
+    "static/css/2.e4346227.chunk.css": "/tonysoftworks/static/css/2.e4346227.chunk.css",
+    "static/js/2.f004b33e.chunk.js": "/tonysoftworks/static/js/2.f004b33e.chunk.js",
+    "static/js/2.f004b33e.chunk.js.map": "/tonysoftworks/static/js/2.f004b33e.chunk.js.map",
+    "index.html": "/tonysoftworks/index.html",
+    "precache-manifest.09e62b1a23d42ac8bb20e084ef9e6b9f.js": "/tonysoftworks/precache-manifest.09e62b1a23d42ac8bb20e084ef9e6b9f.js",
+    "service-worker.js": "/tonysoftworks/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/tonysoftworks/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.d33cfbfd.chunk.css.map": "/tonysoftworks/static/css/main.d33cfbfd.chunk.css.map",
+    "static/js/2.f004b33e.chunk.js.LICENSE.txt": "/tonysoftworks/static/js/2.f004b33e.chunk.js.LICENSE.txt",
+    "static/media/iconfinder_Reactjs_logo_1174949.png": "/tonysoftworks/static/media/iconfinder_Reactjs_logo_1174949.82a318cc.png",
+    "static/media/me_wbg.png": "/tonysoftworks/static/media/me_wbg.e71a64a0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.88b7e030.js",
+    "static/js/runtime-main.89cf7d4b.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.e566aad9.chunk.js",
+    "static/js/2.f004b33e.chunk.js",
     "static/css/main.d33cfbfd.chunk.css",
-    "static/js/main.0a2a99fb.chunk.js"
+    "static/js/main.09ee121b.chunk.js"
   ]
 }
