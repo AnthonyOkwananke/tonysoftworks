@@ -9,7 +9,7 @@ function App() {
     <div className="demo-big-content">
       <Layout>
         <Header className="header-color" title={<Link style={{ textDecoration: 'none', color: 'white' }}
-          to="/">Tony</Link>} scroll>
+          to="/">Home</Link>} scroll>
           <Navigation>
             <Link to="/about">About Me</Link>
             <Link to="/projects">Projects</Link>
