@@ -2,7 +2,7 @@
   "name": "tonysportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AnthonyOkwananke/tony-softworks.github.io",
+  "homepage": "https://AnthonyOkwananke.github.io/tonysoftworks",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
